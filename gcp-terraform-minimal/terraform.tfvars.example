@@ -1,0 +1,5 @@
+# このファイルを terraform.tfvars にコピーして値を入れてください。
+# （terraform.tfvars は .gitignore 推奨）
+
+project_id = "your-gcp-project-id"
+# region     = "asia-northeast1"
